@@ -6,15 +6,6 @@
 
 Passionate about computing since I was young, I knew from an early age that I wanted to do computing when I came of age, but I didn't know what area of computing I wanted to work in, but I was introduced to the world of web development through a cousin and from that day on I fell in love with area. 
 Which I'm currently focused on in the world of Front-End Web Development!👨‍💻 🚀
-
-<div align="left">
-  <a href="https://github.com/CaioMelo10">
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CaioMelo10&theme=dracula&show_icons=true&title_color=DF9B47&layout=compact&langs_count=7&icon_color=80407E"/>
-</div>
-
-
-
-
    
 ## Tech Stack:  
 <div style="display: inline_block">
