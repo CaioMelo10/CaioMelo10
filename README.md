@@ -4,7 +4,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,Hey Everyone!! I'm Caio Melo 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaioMelo10&color=yellow" alt="Profile views" /> </p>
 
-    <h3>About me:</h3>
+<h3>About me:</h3>
 Passionate about computing since I was young, I knew from an early age that I wanted to do computing when I came of age, but I didn't know what area of computing I wanted to work in, but I was introduced to the world of web development through a cousin and from that day on I fell in love with area. 
 Which I'm currently focused on in the world of Front-End Web Development!👨‍💻 🚀
    
